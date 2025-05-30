@@ -15,5 +15,6 @@
 
 
 ## Contributors
-- [@username1](https://github.com/suryaangga07)
-- [@username2](https://github.com/alfatihmm)
+- [@alfatihmm](https://github.com/alfatihmm)
+- [@suryaangga07](https://github.com/suryaangga07)
+
